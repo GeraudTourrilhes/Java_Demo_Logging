@@ -1,0 +1,23 @@
+11:56:13.169 [main] INFO  org.diginamic.demologging.App -
+				Bonjour Slf4J !
+11:56:13.170 [main] INFO  org.diginamic.demologging.App -
+				Implémentation Logback
+11:56:13.171 [main] DEBUG o.d.demologging.service.AppService -
+				Traitement 1 : param = valeur 1
+11:56:28.139 [main] INFO  org.diginamic.demologging.App -
+				Bonjour Slf4J !
+11:56:28.141 [main] INFO  org.diginamic.demologging.App -
+				Implémentation Logback
+11:56:29.668 [main] INFO  org.diginamic.demologging.App -
+				Bonjour Slf4J !
+11:56:29.671 [main] INFO  org.diginamic.demologging.App -
+				Implémentation Logback
+11:59:07.888 [main] INFO  org.diginamic.demologging.App - Bonjour Slf4J !
+11:59:07.890 [main] INFO  org.diginamic.demologging.App - Implémentation Logback
+11:59:38.651 [main] INFO  org.diginamic.demologging.App - Bonjour Slf4J !
+11:59:38.653 [main] INFO  org.diginamic.demologging.App - Implémentation Logback
+12:00:11.308 [main] INFO  org.diginamic.demologging.App - Bonjour Slf4J !
+12:00:11.310 [main] INFO  org.diginamic.demologging.App - Implémentation Logback
+12:02:54.202 [main] INFO  o.diginamic.demologging.console.App - Bonjour Slf4J !
+12:02:54.204 [main] INFO  o.diginamic.demologging.console.App - Implémentation Logback
+12:02:54.205 [main] DEBUG o.d.demologging.service.AppService - Traitement 1 : param = valeur 1
